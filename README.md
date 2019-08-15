@@ -10,6 +10,9 @@ JEFF的技术栈
 
 ### 最新
 
+* [JVM|01基础指令](http://www.jeffcc.top/articles/2019/08/15/1565833163810.html)
+* [算法学习之路|排序](http://www.jeffcc.top/articles/2019/08/14/1565767899908.html)
+* [算法学习之路|双指针](http://www.jeffcc.top/articles/2019/08/14/1565767241127.html)
 * [算法学习之路|贪心思想02](http://www.jeffcc.top/articles/2019/08/13/1565689711160.html)
 * [Linux|01 入门概述](http://www.jeffcc.top/articles/2019/08/13/1565667411590.html)
 * [Spring Cloud|03 Spring Cloud与Dubbo](http://www.jeffcc.top/articles/2019/08/13/1565662365670.html)
