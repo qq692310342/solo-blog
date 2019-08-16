@@ -10,8 +10,23 @@ JEFF的技术栈
 
 ### 最新
 
+* [算法学习之路|贪心思想02](https://www.jeffcc.top/articles/2019/08/16/1565951249352.html)
+* [算法学习之路|贪心思想01](https://www.jeffcc.top/articles/2019/08/16/1565951208612.html)
+* [算法学习之路|双指针](https://www.jeffcc.top/articles/2019/08/16/1565951166979.html)
+* [算法学习之路|排序](https://www.jeffcc.top/articles/2019/08/16/1565951126989.html)
+* [算法学习之路|二分查找](https://www.jeffcc.top/articles/2019/08/16/1565951082180.html)
+* [面试|Spring的常见面试题](https://www.jeffcc.top/articles/2019/08/16/1565951019015.html)
+* [Spring Cloud|03 Spring Cloud与Dubbo](https://www.jeffcc.top/articles/2019/08/16/1565950970456.html)
+* [Spring Cloud|02 Spring Cloud简介](https://www.jeffcc.top/articles/2019/08/16/1565950921079.html)
+* [Spring Cloud|01 微服务简介](https://www.jeffcc.top/articles/2019/08/16/1565950864026.html)
+* [Linux|01 入门概述](https://www.jeffcc.top/articles/2019/08/16/1565950819809.html)
+* [JVM|03内存溢出实战](https://www.jeffcc.top/articles/2019/08/16/1565950758638.html)
+* [JVM|02内存模型](https://www.jeffcc.top/articles/2019/08/16/1565950696850.html)
+* [JVM|01基础指令](https://www.jeffcc.top/articles/2019/08/16/1565950606003.html)
+* [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
+* [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
+* [Netty|01 入门学习](https://www.jeffcc.top/articles/2019/08/16/1565950376534.html)
 * [做做自己想做的事情](https://www.jeffcc.top/articles/2019/08/16/1565950093205.html)
-* [世界，你好！](https://www.jeffcc.top/hello-solo)
 
 
 
