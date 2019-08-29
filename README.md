@@ -10,6 +10,7 @@ JEFF的技术栈
 
 ### 最新
 
+* [算法学习之路|分治思想](https://www.jeffcc.top/articles/2019/08/28/1566983323158.html)
 * [我在 GitHub 上的开源项目](https://www.jeffcc.top/my-github-repos)
 * [JVM|04垃圾回收](https://www.jeffcc.top/articles/2019/08/17/1566014052669.html)
 * [算法学习之路|贪心思想02](https://www.jeffcc.top/articles/2019/08/16/1565951249352.html)
