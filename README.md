@@ -10,6 +10,7 @@ JEFF的技术栈
 
 ### 最新
 
+* [设计模式|03 装饰者模式](https://www.jeffcc.top/articles/2019/09/02/1567405803580.html)
 * [设计模式|02 观察者模式](https://www.jeffcc.top/articles/2019/09/02/1567399716453.html)
 * [设计模式|01 策略模式](https://www.jeffcc.top/articles/2019/09/02/1567397697612.html)
 * [算法学习之路|分治思想](https://www.jeffcc.top/articles/2019/08/28/1566983323158.html)
@@ -29,12 +30,12 @@ JEFF的技术栈
 * [JVM|02内存模型](https://www.jeffcc.top/articles/2019/08/16/1565950696850.html)
 * [JVM|01基础指令](https://www.jeffcc.top/articles/2019/08/16/1565950606003.html)
 * [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
-* [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
 
 ### 热门
 
 * [Netty|01 入门学习](https://www.jeffcc.top/articles/2019/08/16/1565950376534.html)
 * [做做自己想做的事情](https://www.jeffcc.top/articles/2019/08/16/1565950093205.html)
+* [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
 
 
 
