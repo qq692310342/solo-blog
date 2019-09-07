@@ -10,6 +10,7 @@ JEFF的技术栈
 
 ### 最新
 
+* [设计模式|06 单例模式](https://www.jeffcc.top/articles/2019/09/06/1567738560041.html)
 * [设计模式|05 抽象工厂模式](https://www.jeffcc.top/articles/2019/09/05/1567648907241.html)
 * [设计模式| 04 工厂方法模式](https://www.jeffcc.top/articles/2019/09/04/1567560108217.html)
 * [设计模式|03 装饰者模式](https://www.jeffcc.top/articles/2019/09/02/1567405803580.html)
@@ -29,13 +30,13 @@ JEFF的技术栈
 * [Spring Cloud|01 微服务简介](https://www.jeffcc.top/articles/2019/08/16/1565950864026.html)
 * [Linux|01 入门概述](https://www.jeffcc.top/articles/2019/08/16/1565950819809.html)
 * [JVM|03内存溢出实战](https://www.jeffcc.top/articles/2019/08/16/1565950758638.html)
-* [JVM|02内存模型](https://www.jeffcc.top/articles/2019/08/16/1565950696850.html)
 
 ### 热门
 
 * [Netty|01 入门学习](https://www.jeffcc.top/articles/2019/08/16/1565950376534.html)
-* [JVM|01基础指令](https://www.jeffcc.top/articles/2019/08/16/1565950606003.html)
 * [做做自己想做的事情](https://www.jeffcc.top/articles/2019/08/16/1565950093205.html)
+* [JVM|01基础指令](https://www.jeffcc.top/articles/2019/08/16/1565950606003.html)
+* [JVM|02内存模型](https://www.jeffcc.top/articles/2019/08/16/1565950696850.html)
 * [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
 * [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
 
