@@ -10,6 +10,7 @@ JEFF的技术栈
 
 ### 最新
 
+* [设计模式|10 模板方法模式](https://www.jeffcc.top/articles/2019/09/26/1569465766813.html)
 * [设计模式|09 外观模式](https://www.jeffcc.top/articles/2019/09/18/1568771606167.html)
 * [设计模式|08 适配器模式](https://www.jeffcc.top/articles/2019/09/08/1567907351051.html)
 * [设计模式|07 命令模式](https://www.jeffcc.top/articles/2019/09/07/1567829413897.html)
@@ -29,7 +30,6 @@ JEFF的技术栈
 * [算法学习之路|二分查找](https://www.jeffcc.top/articles/2019/08/16/1565951082180.html)
 * [面试|Spring的常见面试题](https://www.jeffcc.top/articles/2019/08/16/1565951019015.html)
 * [Spring Cloud|03 Spring Cloud与Dubbo](https://www.jeffcc.top/articles/2019/08/16/1565950970456.html)
-* [Spring Cloud|02 Spring Cloud简介](https://www.jeffcc.top/articles/2019/08/16/1565950921079.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@ JEFF的技术栈
 * [JVM|01基础指令](https://www.jeffcc.top/articles/2019/08/16/1565950606003.html)
 * [JVM|02内存模型](https://www.jeffcc.top/articles/2019/08/16/1565950696850.html)
 * [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
+* [Spring Cloud|02 Spring Cloud简介](https://www.jeffcc.top/articles/2019/08/16/1565950921079.html)
 * [Spring Cloud|01 微服务简介](https://www.jeffcc.top/articles/2019/08/16/1565950864026.html)
 * [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
 
