@@ -41,8 +41,8 @@ JEFF的技术栈
 * [Linux|01 入门概述](https://www.jeffcc.top/articles/2019/08/16/1565950819809.html)
 * [Spring Cloud|02 Spring Cloud简介](https://www.jeffcc.top/articles/2019/08/16/1565950921079.html)
 * [Netty|02 easy example](https://www.jeffcc.top/articles/2019/08/16/1565950444312.html)
-* [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
 * [Spring Cloud|01 微服务简介](https://www.jeffcc.top/articles/2019/08/16/1565950864026.html)
+* [Netty|03 Handler运行顺序](https://www.jeffcc.top/articles/2019/08/16/1565950543098.html)
 
 
 
